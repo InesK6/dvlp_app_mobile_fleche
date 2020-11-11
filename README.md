@@ -7,7 +7,9 @@ Nous souhaitons, pour une poutre encastrée avec une charge concentrée à son e
 
 Assignment
 Développement Rapide d’Applications
+
 Travail attendu :
+
 - Une application permettant de calculer la flèche et disant si la charge peut être supportée ou
 non par la poutre encastrée
 - Paramètres d’entrée : dimensions de la poutre, forme de sa section, matériau ou module
@@ -16,7 +18,9 @@ d’Young, charge appliquée en bout.
 de dialogue openfiledialog.
 - Log des calculs dans un fichier texte que l’utilisateur peut choisir, ou directement dans le
 dossier de l’application.
+
 Points de notation :
+
 - Ouverture et affichage du fichier abaque
 - Calcul de la flèche à partir des paramètres saisis
 - Écriture des calculs dans un fichier de log daté
@@ -25,7 +29,9 @@ Points de notation :
 - Documentation du code
 - Documentation PDF expliquant la conception de l’application (diagramme UML)
 - Documentation PDF de manuel d’utilisation pour l’utilisateur final.
+
 Livrable :
+
 - Dossier de projet visual studio incluant la dernière version de l’exécutable
 - Dossier contenant l’exécutable en dernière version, et les fichiers ressources nécessaires.
 C’est cet exécutable qui sera testé.
